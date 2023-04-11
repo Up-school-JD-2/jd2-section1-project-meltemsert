@@ -85,14 +85,6 @@ public class UserService {
         }
         return loginUser;
     }
-
-    public void logOutUser() {
-        User user = null;
-
-
-    }
-
-
 }
 
 
